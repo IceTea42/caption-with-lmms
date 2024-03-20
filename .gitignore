@@ -1,0 +1,6 @@
+# Ignored folders
+temp/*
+.idea
+
+# Jupyter notebook
+.ipynb_checkpoints
